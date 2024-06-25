@@ -1,2 +1,1 @@
-# Jin
-My personal repository
+Hi,there 
